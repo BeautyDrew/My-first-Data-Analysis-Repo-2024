@@ -1,12 +1,12 @@
 # Project name: My-first-Data-Analysis-Repo-2024
 
 ....
-# Project Objective: Probem Statement
+# Project Objective: Problem Statement
 
 
 
 ....
-# Data Surcing
+# Data Sourcing
 
 
 
