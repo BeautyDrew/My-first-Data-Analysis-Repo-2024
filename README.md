@@ -16,4 +16,4 @@
 
 
 ....
-# Findings and Recommendatins
+# Findings and Recommendations
